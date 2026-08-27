@@ -5,7 +5,7 @@ O projeto partiu de uma base fornecida em aula (camada de dados com Room já pro
 evoluído com a camada de apresentação, a integração via **Repository/ViewModel** e a
 **navegação** entre as telas. Com o app é possível **listar, cadastrar, editar, concluir/reabrir
 e excluir** tarefas, mantendo tudo salvo localmente no dispositivo.
-
+            
 Atividade individual — FIAP.
 
 ## Objetivo da aplicação
@@ -147,25 +147,13 @@ Arquivo: `MainActivity.kt`.
 As imagens de execução do aplicativo estão na pasta [`docs/evidencias`](docs/evidencias).
 
 ### Tela inicial com a lista de tarefas
-![Tela inicial](docs/evidencias/01-lista-inicial.png)
+![Tela inicial](docs/evidencias/telainicial.png.jpg)
 
 ### Cadastro de uma nova tarefa
-![Cadastro](docs/evidencias/02-cadastro.png)
+![Cadastro](docs/evidencias/cadastronovatarefa.jpg)
 
 ### Tarefa cadastrada aparecendo na lista
-![Lista com tarefa](docs/evidencias/03-lista-com-tarefa.png)
-
-### Edição de uma tarefa existente
-![Edição](docs/evidencias/04-edicao.png)
+![Lista com tarefa](docs/evidencias/tarefacadastrada.jpg)
 
 ### Tarefa marcada como concluída
-![Concluída](docs/evidencias/05-concluida.png)
-
-### Exclusão de uma tarefa
-![Exclusão](docs/evidencias/06-exclusao.png)
-
-### Navegação entre a lista e o formulário
-![Navegação](docs/evidencias/07-navegacao.png)
-
-### Build/execução do projeto sem erros
-![Build](docs/evidencias/08-build.png)
+![Concluída](docs/evidencias/tarefaconcluida.jpg)
